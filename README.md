@@ -6,5 +6,5 @@ a simple Python program that checks how strong a password is.
 - if it contains a number, an uppercase letter, and a symbol
 
 ## How to run
-    python checker.py
+    python passwordstrength.py
 
